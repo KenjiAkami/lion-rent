@@ -39,7 +39,7 @@ brew tap caskroom/cask
 brew install brew-cask
 ```
 
-### Linux installration
+### Linux && OSX && Debian installration
 
 ### Pyenv
 
